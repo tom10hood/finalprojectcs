@@ -1,0 +1,29 @@
+body {
+    background-color: #FFA500;  
+}
+h1 {
+    font-family:"Times New Roman";
+    color: aqua;
+}
+
+table
+{
+    width: 2000px;
+    border-collapse: collapse;
+   
+}
+
+th, td
+{
+    border: 2px solid;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: inherit;
+}
+
+th
+{
+    background-color: cyan;
+    text-transform: uppercase;
+    border-bottom: 2px solid #111111;
+}
